@@ -26,6 +26,10 @@ python vrc_world_user_checker.py log_yyyy-mm-dd_hh-mm-ss.txt
 ...
 ```
 
+# Special thanks
+We have modified and forked the source code by [sunasaji](https://github.com/sunasaji).<br/>
+Thank you very much.
+
 # License
 
 These codes are licensed under CC0 based on the forked source.
