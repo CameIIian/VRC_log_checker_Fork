@@ -31,10 +31,8 @@ def getArgs():
 
 # Main function to format data
 def main(args):
-    print("args: "+str(args))
     # Run until all files are formatted
     for loop in args:
-        print("loop: "+loop)
         # Target files for the 1st argument
         path = loop
 
