@@ -17,7 +17,14 @@ Microsoft Store: https://apps.microsoft.com/detail/9ncvdn91xzqp
 python vrc_world_user_checker.py log_yyyy-mm-dd_hh-mm-ss.txt
 ```
 
-5. See VRChat\_usrlog.txt at the same directory of the log file.<br/>
+5. A formatted log file named VRChat\_usrlog_yyyy-mm-dd_hh-mm-ss.txt is output to a directory named output.<br/>
+
+# Option
+```
+optical argument:
+  -v             Add video information to the output log.
+  -r dirctory    Convert log files in the corresponding directory.
+```
 
 # Output example
 ```

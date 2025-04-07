@@ -17,7 +17,14 @@ Microsoft Store: https://apps.microsoft.com/detail/9ncvdn91xzqp
 python vrc_world_user_checker.py log_yyyy-mm-dd_hh-mm-ss.txt
 ```
 
-5. 同じディレクトリに VRChat\_usrlog.txt という名前で、整形されたログファイルが出力される。<br/>
+5. outputというディレクトリに VRChat\_usrlog_yyyy-mm-dd_hh-mm-ss.txt という名前で、整形されたログファイルが出力される。<br/>
+
+# オプション
+```
+optical argument:
+  -v             ビデオの情報を出力ログに追加する。
+  -r dirctory    該当するディレクトリ内のログファイルを変換する。
+```
 
 # 出力例
 ```
